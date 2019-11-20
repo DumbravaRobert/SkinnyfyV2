@@ -23,7 +23,7 @@ export class LoginPage implements OnInit {
       this.loading.dismiss();
 
       if (status) {
-        this.navCtrl.navigateForward("/home");
+        this.navCtrl.navigateForward("/tab1");
       }
     });
   }
