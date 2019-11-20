@@ -1,7 +1,8 @@
 {
   "name": "ionic-angular-firebase-facebook",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
